@@ -1,0 +1,9 @@
+[submodule "zwavejs2mqtt"]
+	path = zwavejs2mqtt
+	url = https://github.com/SMHRambo/zwavejs2mqtt.git
+[submodule "zigbee2mqtt"]
+	path = zigbee2mqtt
+	url = https://github.com/SMHRambo/zigbee2mqtt.git
+[submodule "libmodbus"]
+	path = libmodbus
+	url = https://github.com/SMHRambo/libmodbus.git
